@@ -1,1 +1,1 @@
-Public release assets for [Oatpad](oatpad.app).
+Public release assets for Oatpad.
