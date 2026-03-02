@@ -1,1 +1,1 @@
-Public release assets for [Oatpad](https://github.com/itsdandanlai/oatpad).
+Public release assets for [Oatpad](oatpad.app).
